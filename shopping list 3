@@ -1,0 +1,54 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head> 
+         <meta charset="UTF-8" />
+        <title>Shopping List</title>
+    </head>
+    <body>
+         <ol>
+            <li>Fruits</li>
+             <li>Vegetables</li>
+             <li>Meats</li>
+             <li>Dairy</li>
+             <li>Condiments</li>
+        </ol>
+        
+        <ul>
+            <li>Fruits</li>
+            <ul>
+                <li>Strawberries</li>
+                <li>Apples</li>
+                <li>Oranges</li>
+                <li>Bananas</li>
+                <li>Watermelons</li>
+                <img src="" alt="Strawberries" width="100px">
+            </ul>
+            
+            <li>Vegetables</li>
+            <ul>
+                <li>Carrots</li>
+                <li>Tomato's</li>
+                <li>Corn</li>
+                <li>Broccoli</li>
+                <li>Mushrooms</li>
+           </ul>
+            <li>Meats</li>
+            <ul>
+               <li>Chicken</li>
+               <li>Steak</li>
+               <li>Pork</li>
+               <li>Beef</li>
+               <li>Sausages</li>
+           </ul>
+             <li>Dairy</li>       
+             <ul>
+                <li>Milk</li>
+                <li>Butter</li>
+                <li>Cheese</li>
+                <li>Ice Cream</li>
+                <Li>Greek Yogurt</Li>
+        
+        
+        </body>
+</html> 
+
